@@ -1,0 +1,1 @@
+javac maze/cli/AlphaNum.java maze/logic/Dragon.java maze/logic/Game.java maze/logic/Hero.java maze/logic/Maze.java maze/logic/Piece.java   
